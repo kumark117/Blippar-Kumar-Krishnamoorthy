@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.highlight {
+  background-color: yellow;
+  margin: 10px;
+}
